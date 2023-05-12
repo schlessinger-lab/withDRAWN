@@ -1,0 +1,231 @@
+Drug,Toxicity as reported in ChEMBL,Standardized toxicity label,Overall toxicity category
+CHEMBL408,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL411,None,None,None
+CHEMBL31,Increased risk of dysglycemia,dysglycemia,metabolic
+CHEMBL436,Hepatic necrosis,hepatic necrosis,hepatologic
+CHEMBL437,None,None,None
+CHEMBL268164,Self-poisonings,self-poisonings,neuropsychiatric
+CHEMBL447,Self-poisoning,self-poisonings,neuropsychiatric
+CHEMBL448,Self-Poisonings,self-poisonings,neuropsychiatric
+CHEMBL267894,Self-Poisonings,self-poisonings,neuropsychiatric
+CHEMBL268869,None,None,None
+CHEMBL267744,Liver Toxicity and Death,hepatotoxicity;death,hepatologic;death
+CHEMBL464,Risk for birth defects,birth defects,birth defects
+CHEMBL479,Cardiac arrythmias,arrhythmia,cardiovascular
+CHEMBL497,Neurotoxicity,neurotoxicity,neuropsychiatric
+CHEMBL12713,Arrhythmias and Sudden Cardiac Death (Arrhythmias and Sudden),arrhythmia;death,cardiovascular
+CHEMBL412873,None,None,None
+CHEMBL13376,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL13280,Abuse,abuse,neuropsychiatric
+CHEMBL101,Off-Label Abuse; Hematologic Toxicity,abuse;hematologic toxicity,neuropsychiatric;hematologic
+CHEMBL531,Risk for heart valve damage,cardiac valvular disease,cardiovascular
+CHEMBL277100,Low blood sugar; hemolytic anemia; kidney liver dysfunction; allergic reactions,hypoglycemia;hemolytic anemia;kidney dysfunction;liver dysfunction;allergy,metabolic;hematologic;nephrologic;hepatologic;imunologic
+CHEMBL111,Psychiatric effects especially depression,depression,neuropsychiatric
+CHEMBL273575,Serious hypersensitive reactions; Hemolytic Anemia; Hepatotoxicity,serious hypersensitivity;hemolytic anemia;hepatotoxicity,imunologic;hematologic;hepatologic
+CHEMBL16073,Nephropathy,nephropathy,nephrologic
+CHEMBL15677,Cutaneous Reactions; Animal Carcinogenicity,skin reactions;animal carcinogenicity,dermatologic;carcinogenicity
+CHEMBL276520,Agranulocytosis,agranulocytosis,hematologic
+CHEMBL15870,Animal Carcinogenicity (rodent); Gastrointestinal Toxicity,animal carcinogenicity (rodents);gastrointestinal toxicity,carcinogenicity;gastrointestinal
+CHEMBL16080,None,None,None
+CHEMBL583,Cardiac repolarization; QTc interval prolongation,cardiac repolarization;QT interval prolongation,cardiovascular;cardiovascular
+CHEMBL16476,Animal carcinogenicity (rodent),animal carcinogenicity (rodents),carcinogenicity
+CHEMBL118,None,None,None
+CHEMBL17157,Prolonged QT interval; ventricular tachycardia,QT interval prolongation;ventricular tachycardia,cardiovascular;cardiovascular
+CHEMBL121,Increased risk of ischaemic heart disease,ischaemic heart disease,cardiovascular
+CHEMBL122,Risk for heart attack and stroke,ischaemic heart disease;stroke,cardiovascular;cardiovascular
+CHEMBL282052,Overdose,overdose,neuropsychiatric
+CHEMBL19490,Anaphylactic reactions and non_fatal allergic reactions,anaphylaxis;allergy,imunologic;imunologic
+CHEMBL282724,Liver toxicity,hepatotoxicity,hepatologic
+CHEMBL21869,None,None,None
+CHEMBL24944,None,None,None
+CHEMBL130,Bone marrow depression (anemia thrombocytopenia and granulocytopenia temporally associated with treatment). Bone marrow toxicities may present as either reversible bone marrow depression which was dose-related and responsive to drug withdrawal or as aplastic anemia which was not dose-related irreversible and associated with a high mortality,bone marrow depression,hematologic
+CHEMBL646,Psychiatric reaction and amnesia,psychiatric;amnesia,neuropsychiatric;neuropsychiatric
+CHEMBL22242,Aplastic anemia,aplastic anemia,hematologic
+CHEMBL656,None,None,None
+CHEMBL24072,Polymorphic Ventricular Tachycardia and Death,ventricular tachycardia;death,cardiovascular;death
+CHEMBL278819,Convulsions,convulsions,neuropsychiatric
+CHEMBL27193,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL751,Severe hepatitis and liver failure (some requiring transplantation); Hepatic Failure; Off-Label Abuse,severe hepatitis;hepatic failure;abuse,hepatologic;hepatologic;neuropsychiatric
+CHEMBL752,None,None,None
+CHEMBL768,Increased risk of medication errors resulting in serious adverse events including deaths,death,death
+CHEMBL772,None,None,None
+CHEMBL290106,Dermatologic Toxicity,dermatologic toxicity,dermatologic
+CHEMBL36506,Relatively common skin reactions; Jaundice; Hepatic failure; Blood dyscrasias (neutropenia anemia and thrombocytopenia),skin reactions;jaundice;hepatic failure;blood dyscrasias,dermatologic;hepatologic;hepatologic;hematologic
+CHEMBL790,None,None,None
+CHEMBL32800,Asthma Mortality,asthma;death,respiratory;death
+CHEMBL37744,Guillan-Barre Syndrome hepatotoxicity,Guillan-Barre;hepatotoxicity,imunologic;hepatologic
+CHEMBL39736,Metabolic toxicity,metabolic toxicity,metabolic
+CHEMBL288470,Agranulocytosis,agranulocytosis,hematologic
+CHEMBL843,Increased risk of ischaemic heart disease,ischaemic heart disease,cardiovascular
+CHEMBL850,QT prolongation and phototoxicity,QT interval prolongation;phototoxicity,cardiovascular;dermatologic
+CHEMBL296419,Fatal arrhythmia; Drug Interaction,arrhythmia;drug interaction,cardiovascular;drug interaction
+CHEMBL865,Risk for heart attack and stroke,ischaemic heart disease;stroke,cardiovascular
+CHEMBL44618,None,None,None
+CHEMBL869,None,None,None
+CHEMBL45816,Torsade de pointes,torsade de pointes,cardiovascular
+CHEMBL53292,Stevens Johnson Syndrome; Toxic Epidermal Necrolysis,Stevens Johnson;toxic epidermal necrolysis,imunologic;dermatologic
+CHEMBL53418,Carcinogenicity,carcinogenicity,carcinogenicity
+CHEMBL54349,Hepatitis,hepatitis,hepatologic
+CHEMBL54976,Eosinophilic Myalgia Syndrome,eosinophilic myalgia,imunologic
+CHEMBL291338,None,None,None
+CHEMBL956,Flank pain decreased kidney function,flank pain;kidney dysfunction,nephrologic;nephrologic
+CHEMBL62193,None,None,None
+CHEMBL61006,Increased risk of hemorrhagic stroke,stroke,cardiovascular
+CHEMBL971,Self-Poisonings,self-poisonings,neuropsychiatric
+CHEMBL70046,Drug Interactionwith 5-FU and Deaths,drug interaction;death,drug interaction;death
+CHEMBL73234,None,None,None
+CHEMBL75880,Neurologic and Hepatic Toxicities,neurotoxicity;hepatotoxicity,neuropsychiatric;hepatologic
+CHEMBL76370,Risk for heart attack stroke and unstable angina,ischaemic heart disease;stroke;angina,cardiovascular;cardiovascular;cardiovascular
+CHEMBL421701,Cardiovascular and Metabolic Reaction,cardiovascular reaction;metabolic reaction,cardiovascular;metabolic
+CHEMBL311498,Hemolytic Anemia,hemolytic anemia,hematologic
+CHEMBL315838,Ventricular arrhythmias; Cardiotoxicity and Excess Mortality,arrhythmia;cardiovascular reaction;death,cardiovascular;cardiovascular;death
+CHEMBL87493,Valvulopathy,cardiac valvular disease,cardiovascular
+CHEMBL1077,Severe hepatitis and liver failure (some requiring transplantation); Hepatic Failure; Off-Label Abuse,severe hepatitis;hepatic failure;abuse,hepatologic;hepatologic;neuropsychiatric
+CHEMBL94081,Vasculitis; Rash,vasculitis;rash,cardiovascular;dermatologic
+CHEMBL316561,Respiratory Reaction,respiratory reaction,respiratory
+CHEMBL329522,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL418995,Abuse; Dependence; Severe Acne,abuse;dependence;acne,neuropsychiatric;neuropsychiatric;dermatologic
+CHEMBL110691,Animal carcinogenicity (dogs),animal carcinogenicity (dogs),carcinogenicity
+CHEMBL1177,Hepatic toxicity,hepatotoxicity,hepatologic
+CHEMBL127516,Dermatologic Toxicity; Psychiatric Reaction,dermatologic toxicity;psychiatric,dermatologic;neuropsychiatric
+CHEMBL340978,Liver and kidney failure; Gastrointestinal bleeding; Ulcers; Liver necrosis; Photosensitivity; Animal carcinogenicity,hepatic failure;gastrointestinal bleeding;ulcers;hepatic necrosis;phototoxicity;animal carcinogenicity,hepatologic;gastrointestinal;gastrointestinal;hepatologic;dermatologic;carcinogenicity
+CHEMBL1228,Blood Dyscrasis; Steven Johnson Syndrome,blood dyscrasis;Steven Johnson,hematologic;imunologic
+CHEMBL341812,Hepatotoxicity; Jaundice,hepatotoxicity;jaundice,hepatologic;hepatologic
+CHEMBL1233,Increased risk of abuse or addiction intoxication and events related to psychomotor impairment,abuse;dependence;psychomotor impairment,neuropsychiatric;neuropsychiatric;neuropsychiatric
+CHEMBL141305,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL139877,Dermatologic Hematologic and Hepatic Reactions,dermatologic toxicity;hematologic toxicity;hepatotoxicity,dermatologic;hematologic;hepatologic
+CHEMBL146095,Anaphylaxis,anaphylaxis,imunologic
+CHEMBL1275,Risk for heart valve damage,cardiac valvular disease,cardiovascular
+CHEMBL345524,Unspecific Experimental Toxicity,None,None
+CHEMBL1291,Uveitis,uveitis,ophthalmic
+CHEMBL346235,Neuropsychiatric Reaction,neuropsychiatric reaction,neuropsychiatric
+CHEMBL159226,Necrotic Hepatitis,hepatitis,hepatologic
+CHEMBL1324,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL170988,Severe Metabolic Acidosis,severe metabolic acidosis,metabolic
+CHEMBL1341,Serious irreversible and even fatal nephrotoxicity and hepatotoxicity,"nephrotoxicity,hepatotoxicity",hephrologic;hepatologic
+CHEMBL363295,Ventricular Tachycardia and Arrhythmia,ventricular tachycardia;arrhythmia,cardiovascular;cardiovascular
+CHEMBL188952,Gastrointestinal Toxicity; Hepatotoxicity,gastrointestinal toxicity;hepatotoxicity,gastrointestinal;hepatologic
+CHEMBL187709,Cataracts Alopecia lchthyosis,cataracts;alopecia;ichthyosis,ophthalmic;dermatologic;dermatologic
+CHEMBL201960,Misuse and abuse,abuse,neuropsychiatric
+CHEMBL1419,cardiovascular; increased risk of heart attack and stroke,cardiovascular reaction;ischaemic heart disease;stroke,cardiovascular;cardiovascular;cardiovascular
+CHEMBL1440,None,None,None
+CHEMBL232201,Jaundice ,jaundice,hepatologic
+CHEMBL395110,None,None,None
+CHEMBL1477,Rhabdomyolysis _ kidney failure and muscle damage,rhabdomyolysis,nephrologic
+CHEMBL245807,Hepatic toxicity,hepatotoxicity,hepatologic
+CHEMBL400599,Cardiac valvulopathy; Pulmonary arterial hypertension,cardiac valvular disease;pulmonary arterial hypertension,cardiovascular;cardiovascular
+CHEMBL254857,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL404849,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL1514,Life-threatening ventricular arrhythmias (especially torsade de pointes),ventricular arrhythmia;torsade de pointes,cardiovascular;cardiovascular
+CHEMBL248702,Cardiac valvular disease,cardiac valvular disease,cardiovascular
+CHEMBL404108,Liver injury,hepatotoxicity,hepatologic
+CHEMBL462547,None,None,None
+CHEMBL461522,Agranulocytosis; Anaphylactic Reaction,agranulocytosis;anaphylaxis,hematologic;imunologic
+CHEMBL515914,Thromboembolism,thromboembolism,cardiovascular
+CHEMBL454950,None,None,None
+CHEMBL522038,None,None,None
+CHEMBL539770,Ventricular Tachycardia and Arrhythmia,ventricular tachycardia;arrhythmia,cardiovascular;cardiovascular
+CHEMBL1729,Fatal arrhythmia,arrhythmia,cardiovascular
+CHEMBL1089221,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL1165342,Hematological,hematologic toxicity,hematologic
+CHEMBL1184360,Neuropsychiatric Reaction,neuropsychiatric reaction,neuropsychiatric
+CHEMBL1185568,Cardiovascular and Metabolic Reaction,cardiovascular reaction;metabolic reaction,cardiovascular;metabolic
+CHEMBL1200359,None,None,None
+CHEMBL1200393,Cardiac repolarization; QTc interval prolongation,cardiac repolarization;QT interval prolongation,cardiovascular;cardiovascular
+CHEMBL1200498,Liver toxicity; Serious liver injury leading to liver transplant; Death,hepatotoxicity;hepatotoxicity;death,hepatologic;hepatologic;death
+CHEMBL1200549,Fatal bronchospasm,fatal bronchospasm,respiratory
+CHEMBL1200563,Rhabdomyolysis _ kidney failure and muscle damage,rhabdomyolysis,nephrologic
+CHEMBL1200595,Cardiovascular,cardiovascular reaction,cardiovascular
+CHEMBL1200695,Increased risk of hemorrhagic stroke,stroke,cardiovascular
+CHEMBL1200714,Hepatotoxicity; Steven-Johnson Syndrome; Toxic Epidermal Necrolysis,hepatotoxicity;Steven-Johnson;toxic epidermal necrolysis,hepatologic;imunologic;dermatologic
+CHEMBL1200731,None,None,None
+CHEMBL1200779,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL1200817,Life-threatening ventricular arrhythmias (especially torsade de pointes),ventricular arrhythmia;torsade de pointes,cardiovascular;cardiovascular
+CHEMBL1200890,None,None,None
+CHEMBL1200903,Self-poisoning,self-poisonings,neuropsychiatric
+CHEMBL1200916,Cardiac arrythmias,arrhythmia,cardiovascular
+CHEMBL1200947,Uveitis,uveitis,ophthalmic
+CHEMBL1200952,None,None,None
+CHEMBL1201071,None,None,None
+CHEMBL1201115,Increased risk of medication errors resulting in serious adverse events including deaths,death,death
+CHEMBL1201197,Liver toxicity; Serious liver injury leading to liver transplant; Death,hepatotoxicity;hepatotoxicity;death,hepatologic;hepatologic;death
+CHEMBL1201201,None,None,None
+CHEMBL1201269,Cardiovascular,cardiovascular reaction,cardiovascular
+CHEMBL1201352,Fatal bronchospasm,fatal bronchospasm,respiratory
+CHEMBL1204165,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL1213351,Serious toxicity to the heart,cardiotoxicity,cardiovascular
+CHEMBL1237104,Serious toxicity to the heart,cardiotoxicity,cardiovascular
+CHEMBL1255739,Animal carcinogenicity (rodents),animal carcinogenicity (rodents),carcinogenicity
+CHEMBL1256696,None,None,None
+CHEMBL1256841,Hepatotoxicity; Drug Interaction,hepatotoxicity;drug interaction,hepatologic;drug interaction
+CHEMBL1256842,Serious hypersensitive reactions; Hemolytic Anemia; Hepatotoxicity,serious hypersensitivity;hemolytic anemia;hepatotoxicity,dermatologic;hematologic;hepatologic
+CHEMBL1334033,Neurologic and Hepatic Toxicities,neurologic;hepatoxicity,neuropsychiatric;hepatologic
+CHEMBL1364551,Convulsions,convulsions,neuropsychiatric
+CHEMBL1402684,Hepatic toxicity,hepatotoxicity,hepatologic
+CHEMBL1411979,Animal carcinogenicity (rodents),animal carcinogenicity (rodents),carcinogenicity
+CHEMBL1418176,Off-label abuse,abuse,neuropsychiatric
+CHEMBL1447476,Dermatologic Toxicity,dermatologic toxicity,dermatologic
+CHEMBL1452696,Cutaneous Reaction; Multi-Organ Toxicities,skin reactions;multi-organ toxicity,dermatologic;multi-organ toxicity
+CHEMBL1463345,Animal carcinogenicity,animal carcinogenicity,carcinogenicity
+CHEMBL1474889,Cardiovascular,cardiovascular reaction,cardiovascular
+CHEMBL1474963,Hepatitis,hepatitis,hepatologic
+CHEMBL1516474,Risk for heart attack stroke and unstable angina,ischaemic heart disease;stroke;angina,cardiovascular;cardiovascular;cardiovascular
+CHEMBL1528839,Severe Metabolic Acidosis,severe metabolic acidosis,metabolic
+CHEMBL1534525,Torsade de pointes,torsade de pointes,cardiovascular
+CHEMBL1551365,None,None,None
+CHEMBL1615350,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL1697686,Cardiovascular,cardiovascular reaction,cardiovascular
+CHEMBL1697751,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL1697760,Polyneuropathy,polyneuropathy,neuropsychiatric
+CHEMBL1697856,Renal,kidney dysfunction,nephrologic
+CHEMBL1712842,None,None,None
+CHEMBL1740513,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL1742471,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL1801800,None,None,None
+CHEMBL1874750,Agranulocytosis,agranulocytosis,hematologic
+CHEMBL1887891,Cardiac valvular disease,cardiac valvular disease,cardiovascular
+CHEMBL1908307,Increased mortality at higher doses; increased hospitalizations,death;hospitilizations,death;hospitilizations
+CHEMBL1909072,None,None,None
+CHEMBL1909282,Jaundice; Elevated Hepatic Enzymes,jaundice;elevated hepatic enzymes,hepatologic;hepatologic
+CHEMBL1909283,Hepatotoxicity; Drug Interaction,hepatotoxicity;drug interaction,hepatologic;drug interaction
+CHEMBL1909285,Hepatic and Hematologic Toxicity,hepatotoxicity;hematologic toxicty,hepatologic;hematologic
+CHEMBL1909286,Hepatotoxicity; Drug Interaction,hepatotoxicity;drug interaction,hepatologic;drug interaction
+CHEMBL1909288,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL1909289,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL1950576,Neuropsychiatric Reaction,neuropsychiatric reaction,neuropsychiatric
+CHEMBL1998966,Neuropsychiatric Reaction,neuropsychiatric reaction,neuropsychiatric
+CHEMBL2104136,Hepatotoxicity,hepatotoxicity,hepatologic
+CHEMBL2104489,Animal Carcinogenicity,animal carcinogenicity,carcinogenicity
+CHEMBL2104537,Dermatologic and Ophthalmic Toxicity,dermatologic toxicity;opthalmic toxicity,dermatologic;opthalmic
+CHEMBL2104607,CNS Stimulation,cns stimulation,neuropsychiatric
+CHEMBL2104793,Misuse and abuse,abuse,neuropsychiatric
+CHEMBL2105233,lmmunoallergic Thrombocytopenia,immunoallergic thrombocytopenia,imunologic
+CHEMBL2105345,Allergy,allergy,imunologic
+CHEMBL2105458,Agranulocytosis,agranulocytosis,hematologic
+CHEMBL2105527,None,None,None
+CHEMBL2105581,Depression anxiety sleep disorders tremor (shaking) and tardive dyskinesia,depression;anxiety;sleep disorder;tremor;tardive dyskinesia,neuropsychiatric;neuropsychiatric;neuropsychiatric;neuropsychiatric;neuropsychiatric
+CHEMBL2105740,Liver toxicity,hepatotoxicity,hepatologic
+CHEMBL2105941,Self-Poisonings,self-poisonings,neuropsychiatric
+CHEMBL2106155,Ventricular arrhythmias; Cardiotoxicity and Excess Mortality,ventricular arrhythmia;cardiotoxicity;death,cardiovascular;cardiovascular;death
+CHEMBL2106217,Valvulopathy,cardiac valvular disease,cardiovascular
+CHEMBL2106556,Self-poisonings,self-poisonings,neuropsychiatric
+CHEMBL2106829,Overdose,overdose,neuropsychiatric
+CHEMBL2106915,Unspecific Experimental Toxicity,unspecified experimental toxicity,unspecified experimental toxicity
+CHEMBL2107253,None,None,None
+CHEMBL2107495,Low blood sugar; hemolytic anemia; kidney liver dysfunction; allergic reactions,hypoglycemia;hemolytic anemia;kidney dysfunction;liver dysfunction;allergy,metabolic;hematologic;nephrologic;hepatologic;imunologic
+CHEMBL2303617,None,None,None
+CHEMBL2311071,None,None,None
+CHEMBL2355333,Guillan-Barre Syndrome hepatotoxicity,Guillan-Barre;hepatotoxicity,imunologic;hepatologic
+CHEMBL3142541,Dermatologic Toxicity; Psychiatric Reaction,dermatologic toxicity;psychiatric,dermatologic;neuropsychiatric
+CHEMBL3183453,Relatively common skin reactions; Jaundice; Hepatic failure; Blood dyscrasias (neutropenia anemia and thrombocytopenia),skin reactions;jaundice;hepatic failure;blood dyscrasias,dermatologic;hepatologic;hepatologic;hematologic
+CHEMBL3187246,Animal carcinogenicity (rodents),animal carcinogenicity (rodents),carcinogenicity
+CHEMBL3188576,Neuropsychiatric Reaction,neuropsychiatric reaction,neuropsychiatric
+CHEMBL3301670,Multi-Organ Toxicities,multi-organ toxicity,multi-organ toxicity
+CHEMBL3304486,Multi-Organ Toxicities,multi-organ toxicity,multi-organ toxicity
+CHEMBL3989403,Anaphylactic reactions and non_fatal allergic reactions,anaphylaxis;allergy,imunologic;imunologic
+CHEMBL3989556,Aplastic anemia,aplastic anemia,hematologic
+CHEMBL3989676,Blood Dyscrasis; Steven Johnson Syndrome,blood dyscrasis;Steven Johnson,hematologic;imunologic
+CHEMBL3989716,Serious toxicity to the heart,cardiotoxicity,cardiovascular
+CHEMBL3989803,Agranulocytosis; Anaphylactic Reaction,agranulocytosis;anaphylaxis,hematologic;imunologic
+CHEMBL3989830,cardiovascular; increased risk of heart attack and stroke,cardiovascular reaction;ischaemic heart disease;stroke,cardiovascular;cardiovascular;cardiovascular
+CHEMBL4297088,None,None,None 
